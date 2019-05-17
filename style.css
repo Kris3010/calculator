@@ -17,6 +17,7 @@ body{
 }
 #result{
 	height: 120px;
+	color: aliceblue;
 }
 #history{
 	text-align: right;
